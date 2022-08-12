@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mridboy96
 - 👀 I’m interested in UI Development and looking forward to expand myself into becoming a full stack developer
-- 💼 Experienced in mobile and web development using VueJS and Flutter as the respective frameworks
+- 💼 Experienced in web and mobile application development using VueJS and Flutter as the respective frameworks
 - 🌱 I’m currently learning Python
 - 📫 You can reach me on akshay111296@gmail.com
 <!---
